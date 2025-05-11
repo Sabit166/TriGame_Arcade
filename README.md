@@ -1,50 +1,134 @@
-PROJECT NAME: TriGame Arcade...
-AWESOME COMBINED GAME COLLECTION
-!Game Collection
+<h1><img src="src/main/resources/com/algo/images%20and%20stylesheets/newlogo.png" alt="go_algo logo" width="48" style="vertical-align:middle;"> TRIGAME_ARCADE</h1>
 
-Welcome to our Awesome Combined Game Collection! In this project, we’ve merged three exciting games into one codebase: a horse game, a snake game, and tic-tac-toe. Whether you’re a developer or a player, we hope you’ll find this collection both creative and adventurous.
+<p>
+Welcome to our <strong> Combined Game Collection!</strong> In this project, we’ve merged three exciting games into one codebase: a horse game, a snake game, and tic-tac-toe. Whether you’re a developer or a player, we hope you’ll find this collection both creative and adventurous.
+</p>
 
-TABLE OF CONTENTS:
-#Introduction
-#Installation
-#Usage
-#Contributing
+<hr>
+
+<p align="center">
+  <img src="src/main/resources/com/algo/Java_Project_Readme/Java_Home_Page.png" alt="Main Page" width="400">
+</p>
+
+<hr>
+
+<h2><img src="src/main/resources/com/algo/Java_Project_Readme/features_logo.png" alt="go_algo logo" width="48" style="vertical-align:middle;"> Games Collection</h2>
+<ul>
+  <li>🎠 HORIZON OF HORSE</li>
+  <li>🐍 SNAKE WORLD</li>
+  <li>🎌 TIC TAC TOE</li>
+</ul>
+
+<hr>
+
+<h2><img src="readme_contents/Horse_Logo.png" alt="go_algo logo" width="48" style="vertical-align:middle;"> HORIZON OF HORSE</h2>
+
+<p style="font-family: 'Courier New', Courier, monospace; font-size: larger; line-height: 1.6; text-align: justify;">
+    Guide your horse through a series of challenging and dynamic obstacles, testing your reflexes and strategy. Can you skillfully navigate the course and reach the finish line without stumbling or losing momentum?
+</p>
 
 
-INTRODUCTION:
-Our Awesome Combined Game Collection features three classic games:
-
-Horse Game: Guide your horse through challenging obstacles. Can you reach the finish line without stumbling?
-
-Snake Game: Control the snake, eat apples, and grow longer. But be careful not to collide with the walls or yourself!
-
-Tic-Tac-Toe: Play the timeless game of Xs and Os against a friend or the computer. Who will claim victory?
+<p>
+  <img src="readme_contents/Horizon_Of_Horse.gif" alt="Horizon of Horse" width="400">
+</p>
 
 
-INSTALLATION:
-To get started, follow these steps:
+<hr>
 
-Clone this repository:
-git clonehttps://github.com/Sabit166/C_Project_Academic_Course_CSE_106
+<h2><img src="readme_contents/Snake_Logo.png" alt="Snake_World" width="48" style="vertical-align:middle;"> SNAKE WORLD</h2>
 
-Navigate to the project directory:
-cd C_Project_Academic_Course_CSE_106
+<p style="font-family: 'Courier New', Courier, monospace; font-size: larger; line-height: 1.6; text-align: justify;">
+    Control the snake, eat apples, and grow longer. But be careful not to collide with the walls or yourself! Navigate through increasingly challenging levels, collect bonuses, and aim for the highest score. Test your reflexes and strategic planning as the snake grows longer with every bite. Can you master the art of survival and become the ultimate Snake World champion?
+</p>
 
-Usage
-Play each game using the keyboard controls specified in the game’s interface.
-Enjoy the nostalgic gameplay and challenge your friends!
-Feel free to customize the games or add new features – this project is open for contributions.
-Contributing
-We welcome contributions! If you’d like to improve the games, fix bugs, or add new features, follow these steps:
+<p>
+  <img src="readme_contents/Snake_World.gif" alt="Segment Tree Operation" width="400">
+</p>
 
-Fork the repository.
-Create a new branch:
-git checkout -b feature/my-awesome-feature
+<hr>
 
-Make your changes and commit them:
-git commit -m "Add feature: My Awesome Feature"
+<h2><img src="readme_contents/Tic_Tac_Toe_Logo.png" alt="Tic_Tac_Toe" width="48" style="vertical-align:middle;"> TIC TAC TOE</h2>
 
-Push your changes to your forked repository:
-git push origin feature/my-awesome-feature
+<p style="font-family: 'Courier New', Courier, monospace; font-size: larger; line-height: 1.6; text-align: justify;">
+    Play the timeless game of Xs and Os against a friend or the computer. Strategize your moves, block your opponent, and aim for three in a row to secure victory. Whether you’re playing casually or competitively, this classic game guarantees endless fun and challenges for players of all ages. Who will claim victory and prove their tactical brilliance?
+</p>
 
-Finally, Create a pull request on GitHub.
+<p>
+  <img src="readme_contents/Tic_Tac_Toe.png" alt="Tic Tac Toe Gameplay" width="400">
+</p>
+
+<hr>
+
+<h2>🛠️ TECHNOLOGIES USED</h2>
+<ul>
+    <li>💻 Programming Language: C</li>
+    <li>📚 Libraries: Standard C Library (stdio.h, stdlib.h, etc.)</li>
+    <li>🛠️ Tools: GCC Compiler, Makefile</li>
+    <li>🖥️ IDEs: Visual Studio Code, Code::Blocks, or any text editor with C support</li>
+    <li>🔗 Version Control: Git</li>
+</ul>
+
+<hr>
+
+<h2>🚀 INSTALLATION</h2>
+
+<h3>Prerequisites</h3>
+<ul>
+    <li>A C compiler like GCC (GNU Compiler Collection)</li>
+    <li>Make utility (optional, for building the project using a Makefile)</li>
+    <li>A terminal or command prompt to run the compiled program</li>
+    <li>Optional: An IDE or text editor with C support, such as Visual Studio Code, Code::Blocks, or CLion</li>
+</ul>
+
+<h3>Steps</h3>
+<pre><code># Clone the repository
+git clone https://github.com/Sabit166/TriGame_Arcade.git
+</code></pre>
+Run the project using your IDE
+
+<h2>📌 USAGE</h2>
+<ul>
+    <li>Launch the application.</li>
+    <li>Navigate to the game you want to play: <strong>Horizon of Horse</strong>, <strong>Snake World</strong>, or <strong>Tic Tac Toe</strong>.</li>
+    <li>Follow the specific rules of the selected game to achieve victory.</li>
+    <li>After completing a game, enter your name to save your score as a record in a file.</li>
+    <li>Press 'y' to view the saved records and compare your performance with others.</li>
+</ul>
+
+<hr>
+
+<h2>🤝 CONTRIBUTING</h2>
+<p>Contributions are welcome!</p>
+<ol>
+  <li>Fork the repository</li>
+  <li>Create a new feature branch: <code>git checkout -b feature-name</code></li>
+  <li>Commit your changes: <code>git commit -m 'Add new feature'</code></li>
+  <li>Push to the branch: <code>git push origin feature-name</code></li>
+  <li>Create a Pull Request</li>
+</ol>
+<p>Feel free to open issues or suggest improvements as well!</p>
+
+<hr>
+
+<h2>🫂 AUTHORS</h2>
+
+<div style="margin-bottom: 8px;">
+  <strong>UI/UX</strong>
+</div>
+<div style="display: flex; align-items: center; gap: 8px; margin-bottom: 6px;">
+  <img src="src/main/resources/com/algo/Java_Project_Readme/developer_logo.png" alt="go_algo logo" width="32">
+  <a href="https://github.com/Tamim-Rizvee" target="_blank">@Tamim-Rizvee</a>
+</div>
+
+<div style="margin-bottom: 8px;">
+  <strong>Backend</strong>
+</div>
+<div style="display: flex; align-items: center; gap: 8px; margin-bottom: 6px;">
+  <img src="src/main/resources/com/algo/Java_Project_Readme/developer_logo.png" alt="go_algo logo" width="32">
+  <a href="https://github.com/Sabit166" target="_blank">@Sabit166</a>
+</div>
+<div style="display: flex; align-items: center; gap: 8px;">
+  <img src="src/main/resources/com/algo/Java_Project_Readme/developer_logo.png" alt="go_algo logo" width="32">
+  <a href="https://github.com/alif-ul-haque" target="_blank">@alif-ul-haque</a>
+</div>
+
