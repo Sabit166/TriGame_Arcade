@@ -1,4 +1,4 @@
-<h1><img src="src/main/resources/com/algo/images%20and%20stylesheets/newlogo.png" alt="go_algo logo" width="48" style="vertical-align:middle;"> TRIGAME_ARCADE</h1>
+<h1>TRIGAME_ARCADE</h1>
 
 <p>
 Welcome to our <strong> Combined Game Collection!</strong> In this project, we‚Äôve merged three exciting games into one codebase: a horse game, a snake game, and tic-tac-toe. Whether you‚Äôre a developer or a player, we hope you‚Äôll find this collection both creative and adventurous.
@@ -7,12 +7,12 @@ Welcome to our <strong> Combined Game Collection!</strong> In this project, we‚Ä
 <hr>
 
 <p align="center">
-  <img src="src/main/resources/com/algo/Java_Project_Readme/Java_Home_Page.png" alt="Main Page" width="400">
+  <img src="readme/Home_Page.png" alt="Main Page" width="400">
 </p>
 
 <hr>
 
-<h2><img src="src/main/resources/com/algo/Java_Project_Readme/features_logo.png" alt="go_algo logo" width="48" style="vertical-align:middle;"> Games Collection</h2>
+<h2><img src="src/main/resources/com/algo/Java_Project_Readme/features_logo.png" alt="games_collection" width="48" style="vertical-align:middle;"> Games Collection</h2>
 <ul>
   <li>üé† HORIZON OF HORSE</li>
   <li>üêç SNAKE WORLD</li>
@@ -23,9 +23,10 @@ Welcome to our <strong> Combined Game Collection!</strong> In this project, we‚Ä
 
 <h2><img src="readme_contents/Horse_Logo.png" alt="go_algo logo" width="48" style="vertical-align:middle;"> HORIZON OF HORSE</h2>
 
-<p style="font-family: 'Courier New', Courier, monospace; font-size: larger; line-height: 1.6; text-align: justify;">
-    Guide your horse through a series of challenging and dynamic obstacles, testing your reflexes and strategy. Can you skillfully navigate the course and reach the finish line without stumbling or losing momentum?
-</p>
+<div style="margin-top: 16px; font-family: 'Courier New', Courier, monospace; font-size: larger; line-height: 1.8; text-align: justify;">
+    Embark on an exhilarating journey as you guide your horse through a series of challenging and dynamic obstacles. Test your reflexes, strategy, and precision as you navigate the course. Will you master the art of control and reach the finish line without stumbling or losing momentum? The adventure awaits!
+</div>
+<div style="margin-bottom: 16px;"></div>
 
 
 <p>
@@ -37,9 +38,10 @@ Welcome to our <strong> Combined Game Collection!</strong> In this project, we‚Ä
 
 <h2><img src="readme_contents/Snake_Logo.png" alt="Snake_World" width="48" style="vertical-align:middle;"> SNAKE WORLD</h2>
 
-<p style="font-family: 'Courier New', Courier, monospace; font-size: larger; line-height: 1.6; text-align: justify;">
+<div style="margin-top: 16px; font-family: 'Courier New', Courier, monospace; font-size: larger; line-height: 1.8; text-align: justify;">
     Control the snake, eat apples, and grow longer. But be careful not to collide with the walls or yourself! Navigate through increasingly challenging levels, collect bonuses, and aim for the highest score. Test your reflexes and strategic planning as the snake grows longer with every bite. Can you master the art of survival and become the ultimate Snake World champion?
-</p>
+</div>
+<div style="margin-bottom: 16px;"></div>
 
 <p>
   <img src="readme_contents/Snake_World.gif" alt="Segment Tree Operation" width="400">
@@ -49,9 +51,11 @@ Welcome to our <strong> Combined Game Collection!</strong> In this project, we‚Ä
 
 <h2><img src="readme_contents/Tic_Tac_Toe_Logo.png" alt="Tic_Tac_Toe" width="48" style="vertical-align:middle;"> TIC TAC TOE</h2>
 
-<p style="font-family: 'Courier New', Courier, monospace; font-size: larger; line-height: 1.6; text-align: justify;">
+<div style="margin-top: 16px; font-family: 'Courier New', Courier, monospace; font-size: larger; line-height: 1.8; text-align: justify;">
     Play the timeless game of Xs and Os against a friend or the computer. Strategize your moves, block your opponent, and aim for three in a row to secure victory. Whether you‚Äôre playing casually or competitively, this classic game guarantees endless fun and challenges for players of all ages. Who will claim victory and prove their tactical brilliance?
 </p>
+</div>
+<div style="margin-bottom: 16px;"></div>
 
 <p>
   <img src="readme_contents/Tic_Tac_Toe.png" alt="Tic Tac Toe Gameplay" width="400">
