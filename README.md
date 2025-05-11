@@ -7,12 +7,12 @@ Welcome to our <strong> Combined Game Collection!</strong> In this project, we�
 <hr>
 
 <p align="center">
-  <img src="readme/Home_Page.png" alt="Main Page" width="400">
+  <img src="readme_contents/Home_Page.png" alt="Main Page" width="400">
 </p>
 
 <hr>
 
-<h2><img src="src/main/resources/com/algo/Java_Project_Readme/features_logo.png" alt="games_collection" width="48" style="vertical-align:middle;"> Games Collection</h2>
+<h2><img src="readme_Contents/Game_Logo.png" alt="games_collection" width="48" style="vertical-align:middle;"> Games Collection</h2>
 <ul>
   <li>🎠 HORIZON OF HORSE</li>
   <li>🐍 SNAKE WORLD</li>
