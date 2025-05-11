@@ -12,7 +12,7 @@ Welcome to our <strong> Combined Game Collection!</strong> In this project, we�
 
 <hr>
 
-<h2><img src="readme_Contents/Game_Logo.png" alt="games_collection" width="48" style="vertical-align:middle;"> Games Collection</h2>
+<h2><img src="readme_contents/Game_Logo.png" alt="games_collection" width="48" style="vertical-align:middle;"> Games Collection</h2>
 <ul>
   <li>🎠 HORIZON OF HORSE</li>
   <li>🐍 SNAKE WORLD</li>
@@ -120,7 +120,7 @@ Run the project using your IDE
   <strong>UI/UX</strong>
 </div>
 <div style="display: flex; align-items: center; gap: 8px; margin-bottom: 6px;">
-  <img src="src/main/resources/com/algo/Java_Project_Readme/developer_logo.png" alt="go_algo logo" width="32">
+  <img src="readme_contents/developer_logo.png" alt="go_algo logo" width="32">
   <a href="https://github.com/Tamim-Rizvee" target="_blank">@Tamim-Rizvee</a>
 </div>
 
@@ -128,11 +128,11 @@ Run the project using your IDE
   <strong>Backend</strong>
 </div>
 <div style="display: flex; align-items: center; gap: 8px; margin-bottom: 6px;">
-  <img src="src/main/resources/com/algo/Java_Project_Readme/developer_logo.png" alt="go_algo logo" width="32">
+  <img src="readme_contents/developer_logo.png" alt="go_algo logo" width="32">
   <a href="https://github.com/Sabit166" target="_blank">@Sabit166</a>
 </div>
 <div style="display: flex; align-items: center; gap: 8px;">
-  <img src="src/main/resources/com/algo/Java_Project_Readme/developer_logo.png" alt="go_algo logo" width="32">
+  <img src="readme_contents/developer_logo.png" alt="go_algo logo" width="32">
   <a href="https://github.com/alif-ul-haque" target="_blank">@alif-ul-haque</a>
 </div>
 
