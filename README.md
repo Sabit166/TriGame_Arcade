@@ -1,4 +1,4 @@
-<h1>TRIGAME_ARCADE</h1>
+<h1>TRIGAME_ARCADE <a href="https://www.linkedin.com/posts/sabit-siraji-1732b9259_cprogramming-learnc-softwaredevelopment-activity-7329389903237013504-IU70?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAD-VIKcBqenpJyISCLU2OR4JE5312x8cMvQ" target="_blank">-Video Link</a></h1>
 
 <p>
 Welcome to our <strong> Combined Game Collection!</strong> In this project, we’ve merged three exciting games into one codebase: a horse game, a snake game, and tic-tac-toe. Whether you’re a developer or a player, we hope you’ll find this collection both creative and adventurous.
@@ -117,22 +117,25 @@ Run the project using your IDE
 <h2>🫂 AUTHORS</h2>
 
 <div style="margin-bottom: 8px;">
-  <strong>UI/UX</strong>
-</div>
-<div style="display: flex; align-items: center; gap: 8px; margin-bottom: 6px;">
-  <img src="readme_contents/developer_logo.png" alt="go_algo logo" width="32">
-  <a href="https://github.com/Tamim-Rizvee" target="_blank">@Tamim-Rizvee</a>
-</div>
-
-<div style="margin-bottom: 8px;">
-  <strong>Backend</strong>
+  <strong>Horizon of Horse</strong>
 </div>
 <div style="display: flex; align-items: center; gap: 8px; margin-bottom: 6px;">
   <img src="readme_contents/developer_logo.png" alt="go_algo logo" width="32">
   <a href="https://github.com/Sabit166" target="_blank">@Sabit166</a>
 </div>
-<div style="display: flex; align-items: center; gap: 8px;">
+
+<div style="margin-bottom: 8px;">
+  <strong>Snake Game</strong>
+</div>
+<div style="display: flex; align-items: center; gap: 8px; margin-bottom: 6px;">
   <img src="readme_contents/developer_logo.png" alt="go_algo logo" width="32">
   <a href="https://github.com/alif-ul-haque" target="_blank">@alif-ul-haque</a>
 </div>
 
+<div style="margin-bottom: 8px;">
+  <strong>Tic Tac Toe</strong>
+</div>
+<div style="display: flex; align-items: center; gap: 8px; margin-bottom: 6px;">
+  <img src="readme_contents/developer_logo.png" alt="go_algo logo" width="32">
+  <a href="https://github.com/Tamim-Rizvee" target="_blank">@Tamim-Rizvee6</a>
+</div>
